@@ -11,4 +11,4 @@ In this Master Thesis project, we propose a framework for the preparation of tex
 
 ## Prerequisites 
 1. An x86 machine running Windows 10 or a Unix-based OS
-2. Python 3.7 or higher. Running in a virtual environment (e.g., conda, virtualenv, etc.) is highly recommended so that you don't mess up the system Python.
+2. Python 3.7 or higher
